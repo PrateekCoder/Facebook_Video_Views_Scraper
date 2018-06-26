@@ -1,17 +1,17 @@
-##Facebook Video Views Scraper
+Facebook Video Views Scraper
 
-###Softwares required:
---> Python 3
---> Terminal or Command line
---> Text Editor (Sublime Text or Atom)
+Softwares required:
+1. Python 3
+2. Terminal or Command line
+3. Text Editor (Sublime Text or Atom)
 
-###Python packages reuired:
---> Selenium
---> Pandas
---> xlsxwriter
---> bs4 (BeautifulSoup)
+Python packages reuired:
+1. Selenium
+2. Pandas
+3. xlsxwriter
+4. bs4 (BeautifulSoup)
 
-###How to use this code:
+How to use this code:
 
 1. Install all the required softwares and python packages before proceeding.
 
@@ -32,7 +32,7 @@
 
 4. Once the script is executed, it will give you an excel file, facebook_videos.xlsx, which will contain four columns namely, the Date of Video Uploaded, Name of the video, Total Video Views and Video_Link.
 
-###Things you can change in the code:
+Things you can change in the code:
 1. If you want to change the channel for which you want to scrape the video views, the you should change the urls list:
 ![URL Lists](https://imgur.com/a/jabycLJ)
 
