@@ -1,4 +1,4 @@
-#Facebook Video Views Scraper
+##Facebook Video Views Scraper
 
 ###Softwares required:
 --> Python 3
@@ -19,7 +19,9 @@
   **To clone this repository to local file use this command**
   ```
   Open Terminal/Commandline in the required directory.
+  
   git init [This is to initialize the folder]
+  
   git clone repository_url  [Replace repository_url with the actual repository_url]
   ```
 
@@ -32,7 +34,7 @@
 
 ###Things you can change in the code:
 1. If you want to change the channel for which you want to scrape the video views, the you should change the urls list:
-https://imgur.com/a/jabycLJ
+![URL Lists](https://imgur.com/a/jabycLJ)
 
 2. If you want to increase the number of videos to be scraped or more pages to be loaded, then you should increase the number from 100 to larger number in while loop, here:
-https://imgur.com/a/GhMvzwb
+![While Loop](https://imgur.com/a/GhMvzwb)
