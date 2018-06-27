@@ -24,7 +24,7 @@
   
   git init [This is to initialize the folder]
   
-  git clone repository_url  [Replace repository_url with the actual repository_url]
+  git clone repository_url  [Replace repository_url with the link: https://github.com/PrateekCoder/Facebook_Video_Views_Scraper.git
   ```
 
 3. Open terminal and run:
