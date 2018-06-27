@@ -5,7 +5,7 @@
 2. Terminal or Command line
 3. Text Editor (Sublime Text or Atom)
 
-Python packages reuired:
+## Python packages reuired:
 1. Selenium
 2. Pandas
 3. xlsxwriter
